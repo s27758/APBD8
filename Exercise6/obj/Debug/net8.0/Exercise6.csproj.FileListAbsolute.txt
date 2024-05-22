@@ -1,0 +1,14 @@
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/bin/Debug/net8.0/Exercise6
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/bin/Debug/net8.0/Exercise6.deps.json
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/bin/Debug/net8.0/Exercise6.runtimeconfig.json
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/bin/Debug/net8.0/Exercise6.dll
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/bin/Debug/net8.0/Exercise6.pdb
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.AssemblyInfoInputs.cache
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.AssemblyInfo.cs
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.csproj.CoreCompileInputs.cache
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.dll
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/refint/Exercise6.dll
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.pdb
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/Exercise6.genruntimeconfig.cache
+/Users/maciekgrubek/Downloads/APBD8/Exercise6/obj/Debug/net8.0/ref/Exercise6.dll
